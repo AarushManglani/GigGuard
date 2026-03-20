@@ -1,5 +1,4 @@
-# GigGuard
-# AI-Powered Income Protection for Q-Commerce Delivery Partners
+# GigGuard - AI-Powered Income Protection for Q-Commerce Delivery Partners
 
 ## The Requirement & Persona Scenarios
 
